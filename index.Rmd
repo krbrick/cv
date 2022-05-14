@@ -92,6 +92,12 @@ Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
+
+```{r}
+CV %<>% print_section('education')
+```
+
+
 ```{marginfigure, echo = T}
 **Interested and experienced in:**   
 ```
@@ -101,12 +107,6 @@ Antiracism training/systemic racism awareness
 [Qaulitative research methodolies](https://krbrick.github.io/)  
 [Mental health social media creation](https://www.tiktok.com/@karabrick)
 ```
-
-```{r}
-CV %<>% print_section('education')
-```
-
-
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
